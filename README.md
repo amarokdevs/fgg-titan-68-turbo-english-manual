@@ -5,4 +5,4 @@ This repository provides a complete and accurate English manual for the Titan 68
 ## Keywords
 Titan 68 Turbo manual, FGG Madlions keyboard guide, Titan 68 Turbo English manual, magnetic keyboard setup, Titan 68 software guide
 
-Direct link to view: https://github.com/amarokdevs/fgg-titan-68-turbo-english-manual/blob/main/fgg-eng-user-manual-titan68.pdf
+Direct link to view: https://github.com/amarokdevs/fgg-titan-68-turbo-english-user-manual/blob/main/fgg-titan-68-turbo-english-user-manual.pdf
